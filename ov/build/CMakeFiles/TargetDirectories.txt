@@ -1,0 +1,3 @@
+/home/nsj/Desktop/ov/build/CMakeFiles/run.dir
+/home/nsj/Desktop/ov/build/CMakeFiles/edit_cache.dir
+/home/nsj/Desktop/ov/build/CMakeFiles/rebuild_cache.dir
